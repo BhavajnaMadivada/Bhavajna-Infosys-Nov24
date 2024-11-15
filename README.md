@@ -10,3 +10,14 @@ Key Outcomes:
 - Improved Marketing Strategies: Identifies demand spikes to optimize marketing campaigns.
 - Enhanced Business Decisions: Supports pricing and promotional adjustments based on reliable forecasts.
 - Scalable Solution: Capable of handling large datasets and varying demand patterns across multiple products.
+
+## Milestone 1: Week 1 
+Module 1: Data Collection 
+- Understand the problem statement
+- Gather sales data from relevant sources (database, store records)
+- Collect Google Analytics and Facebook Impressions data 
+## Milestone 1: Week 2 
+Module 2: Exploratory Data Analysis (EDA) and Data Preprocessing 
+- Ensure your sales data is in a time series format (e.g., daily, weekly, monthly) with timestamps.
+- Clean and format data, handling missing values and outliers. Address them using appropriate techniques (imputa5on, elimina5on).
+- Plot the distribution plots on independent variables 
